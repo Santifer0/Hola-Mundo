@@ -1,0 +1,10 @@
+cd
+mkdir
+cd ..
+git add.
+git commit
+git push
+git pull
+dotnet new
+dotnet add
+
